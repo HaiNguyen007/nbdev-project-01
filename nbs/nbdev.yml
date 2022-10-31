@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-project-01"
+  site-url: "https://HaiNguyen007.github.io/nbdev-project-01"
+  description: "nbdev-project-01"
+  repo-branch: master
+  repo-url: "https://github.com/HaiNguyen007/nbdev-project-01"
